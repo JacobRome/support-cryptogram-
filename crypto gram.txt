@@ -1,0 +1,9 @@
+queue
+pair 
+programing 
+advisor
+meetings
+message
+instructor
+or
+mentor
